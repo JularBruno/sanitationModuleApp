@@ -1,0 +1,2 @@
+rootProject.name='sanitationModuleApp'
+include ':app'
